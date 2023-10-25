@@ -1,2 +1,3 @@
 Hola Arely Amador
 Estiduante de programacion en Platzi
+Hoy está tomando el curso de Git y GitHub
